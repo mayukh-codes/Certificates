@@ -43,9 +43,7 @@ This repository contains certifications across multiple technical domains.
 
 ## 📜 Certificates Collection
 
-All certificates are organized and maintained in this repository.
-
-You can explore the individual files below:
+This repository contains my professional certifications, internship credentials, technical training achievements, and participation certificates.
 
 | Certificate | File |
 |---|---|
@@ -64,8 +62,11 @@ You can explore the individual files below:
 | Backend Web Development Internship | `Web_dev_Backend_Intern.pdf` |
 | Backend Web Development Participation | `Web_dev_Backend_Part.pdf` |
 | Backend Web Development Project | `Web_dev_Backend_Project.pdf` |
+| CS Basic Certification | `Mayukh Das CS_Basic.png` |
+| UI Path Certification | `Mayukh Das UI_Path.pdf` |
+| IASC Certification | `Mayukh_Das_IASC.jpg` |
 
-*The collection will be updated as I complete additional certifications, internships, workshops, and technical programs.*
+*This collection is regularly updated as I continue learning, earning certifications, and participating in technical programs and professional opportunities.*
 
 ---
 
